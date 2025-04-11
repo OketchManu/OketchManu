@@ -53,12 +53,16 @@
 
 ### 📌 Pinned Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OketchManu&repo=buildmasterpro&theme=tokyonight)](https://github.com/oketchemmanuel/buildmasterpro)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OketchManu&repo=fleettraq&theme=tokyonight)](https://github.com/oketchemmanuel/fleettraq)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OketchManu&repo=BuildMaster&theme=tokyonight)](https://github.com/OketchManu/BuildMaster)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OketchManu&repo=fleettraq&theme=tokyonight)](https://github.com/OketchManu/fleettraq)
 
 ---
 
 ### 📫 Connect with Me
 
-- Email: (mailto:oemmanuelodiwuor@gmail.com)
-- LinkedIn:(https://linkedin.com/in/oketchemmanuelodiwor)
+- 📧 Email: [oemmanuelodiwuor@gmail.com](mailto:oemmanuelodiwuor@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/oketchemmanuelodiwor](https://linkedin.com/in/oketchemmanuelodiwor)
+- 📸 Instagram: [@yourinstagramhandle](https://instagram.com/_.oketch_)
+
+---
+
