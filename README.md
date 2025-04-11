@@ -66,7 +66,7 @@
       🧭 Navigate using interactive maps  
       📞 Access emergency contacts  
       🎥 Watch first aid tutorials  
-      <br/><i>Built with Flutter, Firebase, and Node.js</i>
+      <br/><i>Built with Flutter and Firebase</i>
     </td>
   </tr>
 </table>
