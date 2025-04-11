@@ -1,16 +1,64 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Oketch Emmanuel</h1>
+<h3 align="center">💻 Aspiring Software Engineer | Web Developer | Mobile Developer</h3>
 
-<!--
-**OketchManu/OketchManu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **HospyNav** and **FleetTraq**
+- 🌱 Exploring advanced concepts in **Cloud Computing**, **Mobile & Web App Development**
+- 💬 Ask me about **Flutter, ReactJS, Firebase, Node.js, Python, MongoDB**
+- ⚡ Fun fact: I believe tech should solve real problems in elegant ways
+
+---
+
+### 💻 Tech Stack, Languages & Tools
+
+#### **Languages**
+<p align="left">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+#### **Frameworks & Libraries**
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</p>
+
+#### **Databases & Backend**
+<p align="left">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats & Charts
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OketchManul&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OketchManul&layout=compact&theme=tokyonight" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=OketchManu&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+### 📌 Pinned Projects
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OketchManu&repo=buildmasterpro&theme=tokyonight)](https://github.com/oketchemmanuel/buildmasterpro)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OketchManu&repo=fleettraq&theme=tokyonight)](https://github.com/oketchemmanuel/fleettraq)
+
+---
+
+### 📫 Connect with Me
+
+- Email: (mailto:oemmanuelodiwuor@gmail.com)
+- LinkedIn:(https://linkedin.com/in/oketchemmanuelodiwor)
