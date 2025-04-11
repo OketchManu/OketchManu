@@ -53,7 +53,7 @@
 
 ### 📌 Pinned Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OketchManu&repo=BuildMaster&theme=tokyonight)](https://github.com/OketchManu/BuildMaster)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OketchManu&repo=BuildMaster&theme=tokyonight)](https://github.com/OketchManu/BuildMaster)  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OketchManu&repo=fleettraq&theme=tokyonight)](https://github.com/OketchManu/fleettraq)
 
 ---
@@ -61,14 +61,14 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:oemmanuelodiwuor@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Gmail_logo_2013.svg" width="50" />
+  <a href="mailto:oemmanuelodiwuor@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="40" alt="Gmail"/>
   </a>
-  <a href="https://linkedin.com/in/oketchemmanuelodiwor">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/LinkedIn_Logo_2013.svg" width="50" />
+  <a href="https://linkedin.com/in/oketchemmanuelodiwor" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/_o.ketch_">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="50" />
+  <a href="https://instagram.com/_o.ketch_" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="40" alt="Instagram"/>
   </a>
 </p>
 
