@@ -62,7 +62,7 @@
 
 - 📧 Email: [oemmanuelodiwuor@gmail.com](mailto:oemmanuelodiwuor@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/oketchemmanuelodiwor](https://linkedin.com/in/oketchemmanuelodiwor)
-- 📸 Instagram: [@yourinstagramhandle](https://instagram.com/_.oketch_)
+- 📸 Instagram: [@yourinstagramhandle](https://instagram.com/_o.ketch_)
 
 ---
 
