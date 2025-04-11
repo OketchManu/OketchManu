@@ -53,8 +53,7 @@
 
 ### 📌 Pinned Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OketchManu&repo=BuildMaster&theme=tokyonight)](https://github.com/OketchManu/BuildMaster)  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OketchManu&repo=fleettraq&theme=tokyonight)](https://github.com/OketchManu/fleettraq)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OketchManu&repo=HospyNav&theme=tokyonight)](https://github.com/OketchManu/HospyNav)  
 
 ---
 
