@@ -53,16 +53,23 @@
 
 ### 📌 Pinned Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OketchManu&repo=HospyNav&theme=tokyonight)](https://github.com/OketchManu/HospyNav)  
-
-**HospyNav** is a smart healthcare navigation app designed to simplify access to hospitals and emergency services.  
-🔍 Search hospitals nearby  
-🏥 View detailed hospital services  
-🧭 Get navigation assistance via interactive maps  
-📞 Quickly reach emergency contacts  
-🎥 Watch first aid tutorials for common emergencies  
-Built with **Flutter**, **Firebase**, and **Node.js**, HospyNav brings healthcare closer—one tap at a time.
-
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/OketchManu/HospyNav">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OketchManu&repo=HospyNav&theme=tokyonight" />
+      </a>
+      <br/>
+      <b>HospyNav</b> — A smart healthcare navigation app designed to simplify access to hospitals and emergency services.<br/>
+      🔍 Search hospitals nearby  
+      🏥 View hospital services  
+      🧭 Navigate using interactive maps  
+      📞 Access emergency contacts  
+      🎥 Watch first aid tutorials  
+      <br/><i>Built with Flutter, Firebase, and Node.js</i>
+    </td>
+  </tr>
+</table>
 ---
 
 ### 📫 Connect with Me
