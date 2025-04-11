@@ -62,13 +62,13 @@
 
 <p align="center">
   <a href="mailto:oemmanuelodiwuor@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%40oemmanuelodiwuor-brightgreen?style=for-the-badge&logo=gmail&logoColor=white" width="120" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Gmail_logo_2013.svg" width="50" />
   </a>
   <a href="https://linkedin.com/in/oketchemmanuelodiwor">
-    <img src="https://img.shields.io/badge/LinkedIn-%40oketchemmanuelodiwor-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="120" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/LinkedIn_Logo_2013.svg" width="50" />
   </a>
   <a href="https://instagram.com/_o.ketch_">
-    <img src="https://img.shields.io/badge/Instagram-%40_o.ketch_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="120" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="50" />
   </a>
 </p>
 
