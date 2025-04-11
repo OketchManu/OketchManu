@@ -60,9 +60,16 @@
 
 ### 📫 Connect with Me
 
-- 📧 Email: [oemmanuelodiwuor@gmail.com](mailto:oemmanuelodiwuor@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/oketchemmanuelodiwor](https://linkedin.com/in/oketchemmanuelodiwor)
-- 📸 Instagram: [@yourinstagramhandle](https://instagram.com/_o.ketch_)
+<p align="center">
+  <a href="mailto:oemmanuelodiwuor@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%40oemmanuelodiwuor-brightgreen?style=for-the-badge&logo=gmail&logoColor=white" width="120" />
+  </a>
+  <a href="https://linkedin.com/in/oketchemmanuelodiwor">
+    <img src="https://img.shields.io/badge/LinkedIn-%40oketchemmanuelodiwor-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="120" />
+  </a>
+  <a href="https://instagram.com/_o.ketch_">
+    <img src="https://img.shields.io/badge/Instagram-%40_o.ketch_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="120" />
+  </a>
+</p>
 
 ---
-
