@@ -5,7 +5,7 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on **HospyNav** and **FleetTraq**
+- 🔭 Worked on **HospyNav**,**FleetTraq** among others.
 - 🌱 Exploring advanced concepts in **Cloud Computing**, **Mobile & Web App Development**
 - 💬 Ask me about **Flutter, ReactJS, Firebase, Node.js, Python, MongoDB**
 - ⚡ Fun fact: I believe tech should solve real problems in elegant ways
