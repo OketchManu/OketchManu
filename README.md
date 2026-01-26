@@ -81,7 +81,7 @@
   <a href="https://linkedin.com/in/oketchemmanuelodiwor" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/_o.ketch_" target="_blank">
+  <a href="https://instagram.com/_ok.manuel_" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="40" alt="Instagram"/>
   </a>
 </p>
