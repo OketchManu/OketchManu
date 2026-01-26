@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oketch Emmanuel</h1>
-<h3 align="center">💻 Aspiring Software Engineer | Web Developer | Mobile Developer</h3>
+<h3 align="center">💻 Aspiring Security Analyst | Web Developer | Mobile Developer</h3>
 
 ---
 
